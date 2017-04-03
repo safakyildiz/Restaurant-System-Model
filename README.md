@@ -1,4 +1,4 @@
 # hello-world
 First Experience on Github
 Hi! İ am Şafak!
-My first goal here is to create a website using java EE and then represent it.
+My goal here is to add my project and help those who wanna code.Here We have a Software Project model for modelling a Restaurant System.
